@@ -1,6 +1,7 @@
 # vue-vuex-starter-kit
 
-> A Vue.js project
+> A Vue.js starter kit with Vuex and Vue-Router.
+> Author: Amarkant Kumar, Skype: amarkant.kumar7.
 
 ## Build Setup
 
